@@ -127,7 +127,7 @@ It's pretty easy to develop Vivid because it uses gulp, karma and browserify.
 # npm install -g karma-cli
 
 # clone Vivid repo
-git clone ssh://git@git.sankuai.com/fe/fe.vivid.git
+git clone git@github.com:springuper/vivid.git
 
 # install npm packages
 cd fe.vivid
@@ -146,4 +146,4 @@ Welcome join us to make Vivid better!
 
 ## What's next
 
-[RoadMap](http://git.sankuai.com/projects/FE/repos/fe.vivid/browse/doc/roadmap.md).
+[RoadMap](https://github.com/springuper/vivid/blob/master/doc/roadmap.md).
