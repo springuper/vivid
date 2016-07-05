@@ -1,0 +1,24 @@
+{
+    "camelcase": true,
+    "eqeqeq": true,
+    "unused": true,
+    "es3": true,
+    "forin": true,
+    "freeze": true,
+    "strict": true,
+
+    "node": true,
+    "browser": true,
+
+    "predef": [
+        "document",
+        "Handlebars",
+
+        "describe",
+        "before",
+        "beforeEach",
+        "after",
+        "afterEach",
+        "it"
+    ]
+}

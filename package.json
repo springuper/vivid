@@ -1,0 +1,34 @@
+{
+  "name": "vivid",
+  "version": "0.3.1",
+  "author": {
+    "name": "springuper",
+    "email": "springuper@gmail.com"
+  },
+  "license": "MIT",
+  "description": "A simple, lightweight Data Binding Layer based on string-based template engines.",
+  "keywords": [
+    "data binding",
+    "javascript"
+  ],
+  "devDependencies": {
+    "assert": "^1.1.2",
+    "browserify": "^5.12.1",
+    "glob": "^4.0.6",
+    "gulp": "^3.8.8",
+    "gulp-concat": "^2.4.1",
+    "gulp-watch": "^1.0.7",
+    "karma": "^0.12.24",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-coverage": "^0.2.6",
+    "karma-junit-reporter": "^0.2.2",
+    "karma-mocha": "^0.1.9",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "lodash": "^2.4.1",
+    "mocha": "^1.21.4",
+    "simulate": "^0.0.4",
+    "uglify-js": "^2.4.15",
+    "vinyl-source-stream": "^1.1.0",
+    "yargs": "^1.3.2"
+  }
+}
